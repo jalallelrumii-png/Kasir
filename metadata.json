@@ -1,0 +1,7 @@
+{
+  "name": "SmartKasir Pro",
+  "description": "A full-featured Progressive Web App (PWA) for point of sale management, inventory tracking, and sales reporting.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
